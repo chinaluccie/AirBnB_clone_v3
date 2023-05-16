@@ -155,8 +155,8 @@ No known bugs at this time.
 
 ## Authors
 
-Karimi Yvonne - [Github](https://github.com/karivone) / [Twitter](https://twitter.com/_kayewi_)
-Flesier Onyango - [Github](https://github.com/flesier) / [Twitter](https://twitter.com/nyako_codes)
+ Lucianne Odiero
+Tahir Mohammedaman
 
 ## License
 Public Domain. No copy write protection. 
